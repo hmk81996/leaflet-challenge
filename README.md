@@ -10,13 +10,13 @@ Using starter index.html as well as a an logic.js file, I will use JavaScript an
 ## Results
 **Note: Use logicv2.js to display the HTML site correctly.**
 
-Leaflet Map View 1: North and South America, earthquakes from the past 7 days
+Leaflet Map View 1: United States, earthquakes from the past 7 days
 
-![North and South America](Images/leaflet_map_screenshot1.png)
+![United States](Images/leaflet_map_screenshot1.png)
 
-Leaflet Map View 1: North America, earthquakes from the past 7 days
+Leaflet Map View 1: United States(lower 48), earthquakes from the past 7 days
 
-![North America](Images/leaflet_map_screenshot2.png)
+![Lower 48](Images/leaflet_map_screenshot2.png)
 
 ## Analysis
 
