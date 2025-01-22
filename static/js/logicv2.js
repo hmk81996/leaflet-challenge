@@ -46,7 +46,7 @@ function createMarkers(response) {
             fillColor: getColor(coordinates[2]),
             fillOpacity: 0.75,
             radius: size,
-        }).bindPopup(`<h3><p>Location: ${place}</h3><p>Magnitude: ${mag}</p><p>Depth: ${coordinates[2]}</p>`);
+        }).bindPopup(`<h3><p>Location: ${place}</h3><p>Magnitude: ${mag}</p><p>Depth: ${coordinates[2]} km </p>`);
         
         // Add the marker to the magMarkers array.
         magMarkers.push(magMarker);
