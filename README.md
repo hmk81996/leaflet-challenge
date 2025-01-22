@@ -8,6 +8,8 @@ I will build a Leaflet map to visualize earthquake data from a United States Geo
 Using starter index.html as well as a an logic.js file, I will use JavaScript and the D3 library to edit the HTML site and D3.json to fetch data. I'll edit the JavaScript, HTML, and CSS files to create markers that reflect the magnitude of the earthquakes by their size and the depth of the earthquake by color. This will also require creating a legend showing depth and corresponding colors. Popups will provide context for the map data.
 
 ## Results
+**Note: Use logicv2.js to display the HTML site correctly.**
+
 Leaflet Map View 1: North and South America, earthquakes from the past 7 days
 
 ![North and South America](Images/leaflet_map_screenshot1.png)
