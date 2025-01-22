@@ -20,4 +20,4 @@ Leaflet Map View 1: United States(lower 48), earthquakes from the past 7 days
 
 ## Analysis
 
-A preliminary look at the map would indicate that a majority of the earthquakes are at a depth of 4+ km. The earthquakes are primarly located on the western coast of North America but are spread throughout the western half of the United States and through the center of Alaska.
+A preliminary look at the map would indicate that a majority of the earthquakes are at a depth of 4+ km. The earthquakes are primarly located on the western coast of the United States but are spread throughout the western half and through the center of Alaska.
