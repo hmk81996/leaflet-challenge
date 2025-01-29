@@ -1,5 +1,5 @@
-# leaflet-challenge
-Data Analytics Course Module 15
+# earthquake-leaflet
+Leaflet Map - Data Analytics Course Module 15
 
 # Task
 I will build a Leaflet map to visualize earthquake data from a United States Geological Survey (USGS) GeoJSON dataset of earthqake data from the last 7 days.
